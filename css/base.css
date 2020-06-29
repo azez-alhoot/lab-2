@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    margin: 10px;
+}
+
+
+footer {
+    text-align: center;
+    color: blue;
+    margin: 20px;
+}
