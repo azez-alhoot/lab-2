@@ -8,3 +8,18 @@
     display: flex;
     margin:20px auto;
 }
+.btn {
+    width: 100px;
+    height: 50px;
+    background-color: lightskyblue;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#head-btn {
+    /* width: fit-content; */
+    display: flex;
+    justify-content: center;
+}
