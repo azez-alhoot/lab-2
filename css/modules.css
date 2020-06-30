@@ -2,10 +2,11 @@
 #photo-template  {
     box-shadow: 2px -2px 20px gray;
     width: 320px;
-    height: 320px;
+    height: fit-content;
     box-sizing: border-box;
     border: 2px solid gray;
-    margin: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 #photo-template h2{
     text-align: center;
